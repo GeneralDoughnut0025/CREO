@@ -1,4 +1,14 @@
 # CREO
-A collection of mini CAD projects created in PTC Creo, including part modeling, assemblies, technical drawings, and basic mass property analysis such as knuckle joint and screw jack assembly designs.
+This repository contains my PTC Creo projects, including 3D part modeling, assemblies, technical drawings, and basic mechanical design work.
 
-To quickly view my Creo projects, please open `CREO_PROOF.pdf`. It contains a summary of my CAD work, including models, assemblies, and drawings.
+For a quick overview of my Creo projects, please check [CREO_PROOF.pdf](./CREO_PROOF.pdf).
+
+The work in this repository includes:
+- 3D part modeling
+- Assembly design
+- Technical drawings
+- Mass property analysis
+- Knuckle joint assembly
+- Screw jack assembly
+- Bottle and cap design
+- Front and rear component design
